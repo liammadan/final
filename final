@@ -1,4 +1,5 @@
-/**
+    
+    /**
     * A program that runs the game yahtzee
     *
     * @Liam Madan
@@ -125,6 +126,7 @@
          System.out.println("Two of a kind = 15 points ");
          System.out.println("Two pair = 20 points ");
          System.out.println("Three of a kind = 25 points ");
+         System.out.println("Four of a kind = 30 points ");
          System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
          System.out.println("Full house = 30 points ");
@@ -256,6 +258,7 @@
          System.out.println("Two of a kind = 15 points ");
          System.out.println("Two pair = 20 points ");
          System.out.println("Three of a kind = 25 points ");
+         System.out.println("Four of a kind = 30 points ");
          System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
          System.out.println("Full house = 30 points ");
@@ -389,6 +392,7 @@
          System.out.println("Two of a kind = 15 points ");
          System.out.println("Two pair = 20 points ");
          System.out.println("Three of a kind = 25 points ");
+         System.out.println("Four of a kind = 30 points ");
          System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
          System.out.println("Full house = 30 points ");
