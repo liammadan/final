@@ -1,5 +1,4 @@
-    
-    /**
+/**
     * A program that runs the game yahtzee
     *
     * @Liam Madan
@@ -122,12 +121,13 @@
          
          System.out.println("\nNow check the scoring guide below ");
          
-         System.out.println("Two pair = 15 points ");
+         
          System.out.println("Two of a kind = 15 points ");
-         System.out.println("Three of a kind = 20 points ");
-         System.out.println("4 in a row straight = 30 points ");
+         System.out.println("Two pair = 20 points ");
+         System.out.println("Three of a kind = 25 points ");
+         System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
-         System.out.println("Full house = 25 points ");
+         System.out.println("Full house = 30 points ");
          System.out.println("Yahtzee = 100 points ");
          System.out.println("Chance(when you have none of the above) = add up the dice and score that many points ");
          
@@ -253,12 +253,12 @@
          
          System.out.println("\nNow check the scoring guide again ");
          
-         System.out.println("Two pair = 15 points ");
          System.out.println("Two of a kind = 15 points ");
-         System.out.println("Three of a kind = 20 points ");
-         System.out.println("4 in a row straight = 30 points ");
+         System.out.println("Two pair = 20 points ");
+         System.out.println("Three of a kind = 25 points ");
+         System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
-         System.out.println("Full house = 25 points ");
+         System.out.println("Full house = 30 points ");
          System.out.println("Yahtzee = 100 points ");
          System.out.println("Chance(when you have none of the above) = add up the dice and score that many points ");
          
@@ -386,12 +386,12 @@
          
          System.out.println("\nFinal shot! Here is the scoring guide. ");
          
-         System.out.println("Two pair = 15 points ");
          System.out.println("Two of a kind = 15 points ");
-         System.out.println("Three of a kind = 20 points ");
-         System.out.println("4 in a row straight = 30 points ");
+         System.out.println("Two pair = 20 points ");
+         System.out.println("Three of a kind = 25 points ");
+         System.out.println("4 in a row straight = 35 points ");
          System.out.println("5 in a row straight = 40 points ");
-         System.out.println("Full house = 25 points ");
+         System.out.println("Full house = 30 points ");
          System.out.println("Yahtzee = 100 points ");
          System.out.println("Chance(when you have none of the above) = add up the dice and score that many points ");
          
